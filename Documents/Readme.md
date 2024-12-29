@@ -2,8 +2,6 @@
 
 A professional, responsive web animation celebrating New Year 2025 using pure HTML, CSS, and JavaScript. The animation features a realistic starry sky, animated fireworks, and a cityscape silhouette.
 
-![Animation Preview](/api/placeholder/800/400)
-
 ## Features
 
 - **Pure Frontend Stack**: Built with vanilla HTML, CSS, and JavaScript - no dependencies required
